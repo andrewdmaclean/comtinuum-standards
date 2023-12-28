@@ -1,0 +1,388 @@
+{
+    "competencies": [
+        {
+            "name": "Collaboration and Leadership",
+            "description": "The application of skills, attitudes, and techniques involved in interpersonal relationships, especially in the employ of creativity, analysis, understanding, evaluation, and problem- and solution-finding.",
+            "indicators": [
+                {
+                    "name": "Articulates a clear vision of the intent of the collaboration"
+                },
+                {
+                    "name": "Works to develop, agree upon, and achieve shared goals"
+                },
+                {
+                    "name": "Demonstrates flexibility and adaptability"
+                },
+                {
+                    "name": "Observes behaviour and reflects/responds"
+                },
+                {
+                    "name": "Recognizes possible roles within a group and shares responsibilities"
+                },
+                {
+                    "name": "Creates opportunities for others to contribute and to learn"
+                },
+                {
+                    "name": "Contributes something of oneself to a group effort"
+                },
+                {
+                    "name": "Supports and encourages input from the group and provides constructive feedback"
+                },
+                {
+                    "name": "Demonstrates habits and behaviours that are a positive model for others"
+                },
+                {
+                    "name": "Demonstrates recognition of individuality/personality when working with others"
+                }
+            ]
+        },
+        {
+            "name": "Critical and creative thinking",
+            "description": "The awareness and application of different techniques, thought-framing models, and approaches to a variety of challenges, problems, and opportunities.",
+            "indicators": [
+                {
+                    "name": "Connects ideas in novel ways, or connects previously dissociated ideas"
+                },
+                {
+                    "name": "Extracts information from explicit and implied sources"
+                },
+                {
+                    "name": "Develops and/or applies structures/strategies/processes/methods to make a decision"
+                },
+                {
+                    "name": "Applies logic to draw a conclusion"
+                },
+                {
+                    "name": "Practices metacognition"
+                },
+                {
+                    "name": "Applies prior knowledge to identify, understand, and solve new problems"
+                },
+                {
+                    "name": "Identifies or constructs solution(s)"
+                },
+                {
+                    "name": "Evaluates methods/solutions"
+                },
+                {
+                    "name": "Generates questions to compose line of inquiry"
+                },
+                {
+                    "name": "Connects procedures with outcome"
+                },
+                {
+                    "name": "Employs imagination/intuition/insight/play"
+                },
+                {
+                    "name": "Identifies/creates pattern/patterns"
+                }
+            ]
+        },
+        {
+            "name": "Cultural awareness and understanding",
+            "description": "The development of intercultural competency, including the understanding of the dynamic nature of culture, one’s own culture, the relationship of culture to the physical world, and nature of culture, one’s own culture, the relationship of culture to the physical world, and the role of culture on the development of world view.",
+            "indicators": [
+                {
+                    "name": "Explores culture with curiosity and sensitivity"
+                },
+                {
+                    "name": "Recognizes culture and how it affects attitudes, beliefs, and experiences"
+                },
+                {
+                    "name": "Acknowledges intra-cultural and inter-cultural diversity"
+                },
+                {
+                    "name": "Enhances knowledge of own cultural origins and/or those of a culture of interest"
+                },
+                {
+                    "name": "Recognizes cultural differences in all aspects of life (art, language, food, economics, tech...)"
+                },
+                {
+                    "name": "Cultivates empathy in such a way as to understand that there are diverse ways to be in the world"
+                },
+                {
+                    "name": "Demonstrates understanding of low/ vs. high-context cultures and situations"
+                },
+                {
+                    "name": "Explores diverse ways of knowing and being"
+                },
+                {
+                    "name": "Explores how morals and values are inherent in cultural framework"
+                }
+            ]
+        },
+        {
+            "name": "Personal planning and responsibility",
+            "description": "Understanding the balance between rights, freedoms, opportunities, and responsibilities. Developing skills, habits of mind, and knowledge that will allow a person to feel competent in the pursuit of their life goals.",
+            "indicators": [
+                {
+                    "name": "Sets goals that support the whole person (mind, body, heart, spirit, joy)"
+                },
+                {
+                    "name": "Segments goals, as appropriate, into steps or tasks"
+                },
+                {
+                    "name": "Sets priorities based on importance, urgency, availability of resources, sequence, timing, ..."
+                },
+                {
+                    "name": "Communicates with others about goals, seeking help or accessing help independently where appropriate"
+                },
+                {
+                    "name": "Reflects on process, including the evaluation and adjustment of a plan as needed, and when making future plans"
+                },
+                {
+                    "name": "Considers the long- and short-term in the planning process"
+                },
+                {
+                    "name": "Balances responsibility to self and others"
+                },
+                {
+                    "name": "Differentiates between personal responsibility and group responsibility or the responsibility of another person"
+                }
+            ]
+        },
+        {
+            "name": "Media and information literacy",
+            "description": "The application of how to share information, how to recognize and analyze bias and purpose, and how to use multiple forms of media to express ideas.",
+            "indicators": [
+                {
+                    "name": "Understands the role and functions of media and other information providers in democratic and non-democratic societies"
+                },
+                {
+                    "name": "Recognizes and articulates need for information"
+                },
+                {
+                    "name": "Locates and accesses relevant information"
+                },
+                {
+                    "name": "Evaluates critically information and media content in terms of authority, credibility, and purpose"
+                },
+                {
+                    "name": "Extracts and organizes information and media content"
+                },
+                {
+                    "name": "Synthesizes or applies the ideas abstracted from content"
+                },
+                {
+                    "name": "Communicates ethically and responsibly an understanding of created knowledge to an audience, in an appropriate form and medium"
+                },
+                {
+                    "name": "Applies ICT skills to process information and to produce own content"
+                },
+                {
+                    "name": "Engages with media for self-expression, dialogue, and democratic participation"
+                }
+            ]
+        },
+        {
+            "name": "Mathematical literacy",
+            "description": "A working knowledge of the language of math, including what numbers and other symbols mean, how space (both real and imaginary) can be explored and described through math, and mean, how space (both real and imaginary) can be explored and described through math, and choosing mathematical strategies to solve problems effectively.",
+            "indicators": [
+                {
+                    "name": "Asks questions of a mathematical nature"
+                },
+                {
+                    "name": "Uses various strategies to approach a problem or situation"
+                },
+                {
+                    "name": "Recognizes and uses patterns and relationships"
+                },
+                {
+                    "name": "Makes sense of, relates, uses, and/or creates mathematical representations"
+                },
+                {
+                    "name": "Uses symbolic, formal, and technical language"
+                },
+                {
+                    "name": "Uses an understanding of context to guide the mathematical process"
+                },
+                {
+                    "name": "Uses tools that may assist in implementing processes and procedures for determining mathematical solutions"
+                },
+                {
+                    "name": "Understands the extents and limits of a mathematical solution"
+                }
+            ]
+        },
+        {
+            "name": "Reading, writing, speaking, and listening",
+            "description": "The application of skills and techniques involved in effective communication in today’s world.",
+            "indicators": [
+                {
+                    "name": "Reads from a variety of sources"
+                },
+                {
+                    "name": "Employs writing format appropriate to the learning goal and/or purpose of the writing"
+                },
+                {
+                    "name": "Uses strategies to organize and to plan before speaking, when appropriate"
+                },
+                {
+                    "name": "Employs active listening skills, encouraging/supporting others to speak/share ideas"
+                },
+                {
+                    "name": "Constructs meaning from text"
+                },
+                {
+                    "name": "Uses pre-writing strategies to organize and to plan"
+                },
+                {
+                    "name": "Chooses language that is purposive, including word choice, style, voice, tone, sentence structure, etc."
+                },
+                {
+                    "name": "Seeks understanding; asks clarifying questions"
+                },
+                {
+                    "name": "Analyzes key elements & features of text"
+                },
+                {
+                    "name": "Chooses language that is purposive, including word choice, style, voice, tone, sentence structure, etc."
+                },
+                {
+                    "name": "Communicates main idea(s), either explicitly or implicitly, depending on goal"
+                },
+                {
+                    "name": "Takes into account own bias and how it may affect meaning and/or empathy"
+                },
+                {
+                    "name": "Responds in a variety of forms"
+                },
+                {
+                    "name": "Chooses structure, content, language, and tone of language with intentionality and to match setting, goal, and audience"
+                },
+                {
+                    "name": "Demonstrates an awareness of how context, body language, and nonverbal communication inform meaning"
+                },
+                {
+                    "name": "Identifies as applicable: theme, bias, main idea, purpose, tone, voice, characterization narration, suspense, literary devices"
+                },
+                {
+                    "name": "Uses literary devices in writing as appropriate to the goal(s) of the writing"
+                },
+                {
+                    "name": "Awareness of social and cultural conventions and the impact of word choice"
+                },
+                {
+                    "name": "Employs recording strategies to retain ideas that are received through listening"
+                },
+                {
+                    "name": "Selects text that supports learning goals, including context/objective goals"
+                },
+                {
+                    "name": "Employs editing and revision strategies"
+                },
+                {
+                    "name": "Responds to others in a way that enhances or builds conversation"
+                },
+                {
+                    "name": "Listens with attention and to the point necessary to uncover main idea/theme"
+                },
+                {
+                    "name": "Employs speaking techniques appropriate to context, subject, purpose, audience"
+                },
+                {
+                    "name": "Uses writing to synthesize/summarize ideas from other sources"
+                },
+                {
+                    "name": "Demonstrates inferential comprehension"
+                },
+                {
+                    "name": "Employs self-correction/honing /editing of speech to acquire greater accuracy"
+                },
+                {
+                    "name": "Uses grammar and other writing conventions as appropriate to context"
+                },
+                {
+                    "name": "Demonstrates literal comprehension"
+                },
+                {
+                    "name": "Demonstrates pre- , during-, and post-reading strategies"
+                },
+                {
+                    "name": "Demonstrates awareness of social and cultural conventions and the impact of word choice on others"
+                }
+            ]
+        },
+        {
+            "name": "Ecological literacy",
+            "description": "The understanding of closed systems, including the relationships of elements or organisms with one another and with their context or physical surroundings.",
+            "indicators": [
+                {
+                    "name": "Evidence of systems thinking"
+                },
+                {
+                    "name": "Recognizes the universe as an integrated whole rather than a collection of individual elements"
+                },
+                {
+                    "name": "Aware of a system/s capacity and the factors that influence it"
+                },
+                {
+                    "name": "Understands the interconnectedness of systems"
+                },
+                {
+                    "name": "Considers the impact that a behaviour or a decision can have/did have on a system"
+                },
+                {
+                    "name": "Creates a system in order to meet a need and/or solve a problem"
+                }
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "name": "Artistic, Literary, and Musical Expression, and Appreciation",
+            "description": "The creation or expression of appreciation for artistic creations. Appreciation could involve curating, critiquing. comparing, describing. organizing, transforming. finding inspiration, etc.",
+            "icon": "iconoir:music-1-add"
+        },
+        {
+            "name": "Identifying and Solving Problems and Making Decisions",
+            "description": "The understanding of the nature of a problem, challenge, or opportunity with the clarity required to address it appropriately.",
+            "icon": "heroicons-outline:puzzle"
+        },
+        {
+            "name": "Structured and Unstructured Play",
+            "description": "Engagement In an activity where enjoyment and using imagination are the goals.",
+            "icon": "iconoir:gamepad"
+        },
+        {
+            "name": "Explore Physical Universe",
+            "description": "Using various techniques. approaches. lenses. and tools to examine the physical world around us.",
+            "icon": "iconoir:planet-sat"
+        },
+        {
+            "name": "Designing and Making Things",
+            "description": "The act of creating objects. giving form to ideas. building with found or created elements, and thinking of how design thinking can guide action.",
+            "icon": "iconoir:3d-pt-box"
+        },
+        {
+            "name": "Ethics Awareness and Application",
+            "description": "The development of a personal code of ethics, and considering ethical implications for our actions and the actions of others.",
+            "icon": "heroicons-outline:scale"
+        },
+        {
+            "name": "Indigenous Peoples",
+            "description": "The understanding of the connection between people and their origins. including those people who reside in the lands from which they originate.",
+            "icon": "heroicons-outline:globe-americas"
+        },
+        {
+            "name": "Language Acquisition",
+            "description": "Gaining Fluency in a Language or Languages",
+            "icon": "iconoir:emoji-talking-happy"
+        },
+        {
+            "name": "Physical and Mental Health, Development, and Lifestyle",
+            "description": "The development of a sense of physical fitness, mental fitness, positive habits of mind, and a lifestyle that supports health generally.",
+            "icon": "iconoir:yoga"
+        },
+        {
+            "name": "Scientific Process and Application",
+            "description": "Working from hypothesis to conclusion to explore or test an idea, following scientific principles throughout the process. Examining claims to see ifthere are scientific processes behind those claims.",
+            "icon": "iconoir:flask"
+        },
+        {
+            "name": "Significant Events and Figures in History",
+            "description": "Pertaining to people, places, events, ideas, movements. and eras.",
+            "icon": "iconoir:tower-warning"
+        }
+    ]
+}
