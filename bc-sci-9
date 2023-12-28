@@ -1,0 +1,152 @@
+{
+  "competencies": [
+    {
+      "name": "Questioning and predicting",
+      "description": "",
+      "indicators": [
+        {
+          "name": "Demonstrate a sustained intellectual curiosity about a scientific topic or problem of personal interest."
+        },
+        {
+          "name": "Make observations aimed at identifying their own questions, including increasingly complex ones, about the natural world."
+        },
+        {
+          "name": "Formulate multiple hypotheses and predict multiple outcomes."
+        }
+      ]
+    },
+    {
+      "name": "Planning and conducting",
+      "description": "",
+      "indicators": [
+        {
+          "name": "Collaboratively and individually plan, select, and use appropriate investigation methods, including field work and lab experiments, to collect reliable data (qualitative and quantitative)."
+        },
+        {
+          "name": "Assess risks and address ethical, cultural and/or environmental issues associated with their proposed methods and those of others"
+        },
+        {
+          "name": "Select and use appropriate equipment, including digital technologies, to systematically and accurately collect and record data"
+        },
+        {
+          "name": "Ensure that safety and ethical guidelines are followed in their investigations"
+        }
+      ]
+    },
+    {
+      "name": "Processing and analyzing data and information",
+      "description": "",
+      "indicators": [
+        {
+          "name": "Experience and interpret the local environment"
+        },
+        {
+          "name": "Apply First Peoples perspectives and knowledge, other ways of knowing, and local knowledge as sources of information"
+        },
+        {
+          "name": "Seek and analyze patterns, trends, and connections in data, including describing relationships between variables (dependent and independent) and identifying inconsistencies"
+        },
+        {
+          "name": "Construct, analyze and interpret graphs (including interpolation and extrapolation), models and/or diagrams"
+        },
+        {
+          "name": "Use knowledge of scientific concepts to draw conclusions that are consistent with evidence"
+        },
+        {
+          "name": "Analyze cause-and-effect relationships"
+        }
+      ]
+    },
+    {
+      "name": "Evaluating",
+      "description": "",
+      "indicators": [
+        {
+          "name": "Evaluate their methods and experimental conditions, including identifying sources of error or uncertainty, confounding variables, and possible alternative explanations and conclusions"
+        },
+        {
+          "name": "Describe specific ways to improve their investigation methods and the quality of the data"
+        },
+        {
+          "name": "Evaluate the validity and limitations of a model or analogy in relation to the phenomenon modelled"
+        },
+        {
+          "name": "Demonstrate an awareness of assumptions, question information given, and identify bias in their own work and secondary sources"
+        },
+        {
+          "name": "Consider the changes in knowledge over time as tools and technologies have developed"
+        },
+        {
+          "name": "Connect scientific explorations to careers in science"
+        },
+        {
+          "name": "Exercise a healthy, informed skepticism, and use scientific knowledge and findings to form their own investigations and to evaluate claims in secondary sources"
+        },
+        {
+          "name": "Consider social, ethical, and environmental implications of the findings from their own and others’ investigations"
+        },
+        {
+          "name": "Critically analyze the validity of information in secondary sources and evaluate the approaches used to solve problems"
+        }
+      ]
+    },
+    {
+      "name": "Applying and innovating",
+      "description": "",
+      "indicators": [
+        {
+          "name": "Contribute to care for self, others, community, and world through individual or collaborative approaches"
+        },
+        {
+          "name": "Transfer and apply learning to new situations"
+        },
+        {
+          "name": "Generate and introduce new or refined ideas when problem solving"
+        },
+        {
+          "name": "Contribute to finding solutions to problems at a local and/or global level through inquiry"
+        },
+        {
+          "name": "Consider the role of scientists in innovation"
+        }
+      ]
+    },
+    {
+      "name": "Communicating",
+      "description": "",
+      "indicators": [
+        {
+          "name": "Formulate physical or mental theoretical models to describe a phenomenon"
+        },
+        {
+          "name": "Communicate scientific ideas, claims, information, and perhaps a suggested course of action, for a specific purpose and audience, constructing evidence-based arguments and using appropriate scientific language, conventions, and representations"
+        },
+        {
+          "name": "Express and reflect on a variety of experiences, perspectives, and worldviews through place"
+        }
+      ]
+    }
+  ],
+  "contexts": [
+    {
+      "name": "Biology",
+      "description": "Cells are derived from cells. May include topics such as: asexual reproduction (e.g. mitosis, different forms) and sexual reproduction (e.g. meiosis, human sexual reproduction)",
+      "icon": "iconoir:dna"
+    },
+    {
+      "name": "Chemistry",
+      "description": "The electron arrangement of atoms impacts their chemical nature. May include topics such as: element properties as organized in the periodic table, and the arrangement of electrons determines the compounds formed by elements",
+      "icon": "iconoir:fire-flame"
+    },
+    {
+      "name": "Physics",
+      "description": "Electric current is the flow of electric charge. May include topics such as: circuits — must be complete for electrons to flow, and voltage, current, and resistance.",
+      "icon": "iconoir:atom"
+    },
+    {
+      "name": "Earth and Space Science",
+      "description": "The biosphere, geosphere, hydrosphere, and atmosphere are interconnected, as matter cycles and energy flows through them. May include topics such as: effects of solar radiation on the cycling of matter and energy, matter cycles within biotic and abiotic components of ecosystems, sustainability of systems, and First Peoples knowledge of interconnectedness and sustainability.",
+      "icon": "iconoir:planet"
+    }
+  ]
+}
