@@ -1,0 +1,90 @@
+{
+  "frameworks": [
+    {
+      "name": "Bloom's Taxonomy",
+      "description": "A framework for categorizing educational objectives into levels of complexity.",
+      "levels": {
+        "Knowledge": {
+          "description": "Recalling facts and basic concepts.",
+          "verbs": ["define", "describe", "identify", "recall"]
+        },
+        "Comprehension": {
+          "description": "Understanding information, grasping meaning.",
+          "verbs": ["explain", "summarize", "paraphrase", "classify"]
+        },
+        "Application": {
+          "description": "Using new knowledge in practical applications.",
+          "verbs": ["apply", "demonstrate", "use", "implement"]
+        },
+        "Analysis": {
+          "description": "Drawing connections among ideas.",
+          "verbs": ["analyze", "compare", "contrast", "examine"]
+        },
+        "Synthesis": {
+          "description": "Compiling information in different ways.",
+          "verbs": ["create", "design", "synthesize", "write"]
+        },
+        "Evaluation": {
+          "description": "Justifying a decision or course of action.",
+          "verbs": ["evaluate", "justify", "critique", "recommend"]
+        }
+      }
+    },
+    {
+      "name": "SOLO Taxonomy",
+      "description": "A model describing levels of increasing complexity in understanding subjects.",
+      "levels": {
+        "Pre-structural": {
+          "description": "Unconnected information, missing the point.",
+          "verbs": ["identify", "name", "follow simple instructions"]
+        },
+        "Uni-structural": {
+          "description": "Simple and obvious connection, but limited understanding.",
+          "verbs": ["define", "describe", "list"]
+        },
+        "Multi-structural": {
+          "description": "Several related aspects, but they are seen as unrelated.",
+          "verbs": ["classify", "combine", "enumerate"]
+        },
+        "Relational": {
+          "description": "Integrated into a structure, understood in terms of its relevance.",
+          "verbs": ["analyze", "compare", "relate"]
+        },
+        "Extended abstract": {
+          "description": "Generalized to new domain, reflecting on own understanding.",
+          "verbs": ["hypothesize", "theorize", "reflect"]
+        }
+      }
+    },
+    {
+      "name": "Taxonomy of Significant Learning",
+      "description": "A framework for identifying significant learning experiences.",
+      "levels": {
+        "Foundational Knowledge": {
+          "description": "Understanding and remembering information and ideas.",
+          "verbs": ["remember", "understand", "identify"]
+        },
+        "Application": {
+          "description": "Skills in critical, creative, and practical thinking; managing projects.",
+          "verbs": ["apply", "implement", "execute"]
+        },
+        "Integration": {
+          "description": "Making connections between ideas, people, or realms of life.",
+          "verbs": ["connect", "relate", "integrate"]
+        },
+        "Human Dimension": {
+          "description": "Learning about oneself and others.",
+          "verbs": ["reflect", "perceive", "understand"]
+        },
+        "Caring": {
+          "description": "Developing new feelings, interests, and values.",
+          "verbs": ["value", "appreciate", "empathize"]
+        },
+        "Learning How to Learn": {
+          "description": "Becoming a better student, inquiring about a subject.",
+          "verbs": ["inquire", "self-evaluate", "plan"]
+        }
+      }
+    }
+  ]
+}
