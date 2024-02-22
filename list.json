@@ -9,6 +9,12 @@
       "id": "bc-sci-9",
       "name": "BC Science 9",
       "description": "Standards for the Bristh Columbia Science 9 Curriculum from 2023"
+    },
+    {
+      "id": "sd-23-pilot",
+      "name": "SD23 Pilot",
+      "description": "Standards used as part of the SD 23 Pilot Project for the 2023-2024 school year"
     }
+
   ]
 }

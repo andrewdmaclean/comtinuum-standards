@@ -1,0 +1,346 @@
+{
+    "competencies": [
+        {
+            "name": "Reasoning and Analyzing",
+            "description": "Figuring things out and understanding why things happen",
+            "indicators": [
+                {
+                    "name": "Solve problems successfully."
+                },
+                {
+                    "name": "Understand why things happen."
+                }
+            ]
+        },
+        {
+            "name": "Understanding and Solving",
+            "description": "Making sense of problems and finding solutions",
+            "indicators": [
+                {
+                    "name": "Think through problems."
+                },
+                {
+                    "name": "Come up with realistic solutions."
+                }
+            ]
+        },
+        {
+            "name": "Connecting and Reflecting",
+            "description": "Making connections between ideas and thinking about what you learned",
+            "indicators": [
+                {
+                    "name": "Skillfully link ideas together."
+                },
+                {
+                    "name": "Reflect on what I’ve learned."
+                }
+            ]
+        },
+        {
+            "name": "Comprehend and Connect",
+            "description": "Understanding what you read, hear, or see and making connections to what you already know",
+            "indicators": [
+                {
+                    "name": "Understand what I read, hear, or see."
+                },
+                {
+                    "name": "Connect it to what I already know."
+                }
+            ]
+        },
+        {
+            "name": "Create and Communicate",
+            "description": "Using words, writing, speaking, or creating pictures or other things to share your thoughts and ideas clearly with others",
+            "indicators": [
+                {
+                    "name": "Use words, writing, speaking or creating visuals effectively."
+                },
+                {
+                    "name": "Share thoughts and ideas clearly."
+                }
+            ]
+        },
+        {
+            "name": "Thinking and Communicating",
+            "description": "Using your brain to understand things and then telling others about it",
+            "indicators": [
+                {
+                    "name": "Fully understand things."
+                },
+                {
+                    "name": "Explain them to others."
+                }
+            ]
+        },
+        {
+            "name": "Personal and Social Awareness",
+            "description": "Understanding your own feelings and how they affect others, and being aware of the people and world around you",
+            "indicators": [
+                {
+                    "name": "Comprehend my own feelings and their impact on others."
+                },
+                {
+                    "name": "Stay aware of the people and the world around me."
+                }
+            ]
+        },
+        {
+            "name": "Questioning and Predicting",
+            "description": "Asking questions and making guesses about what might happen next based on what you know",
+            "indicators": [
+                {
+                    "name": "Inquire and make predictions based on my knowledge."
+                }
+            ]
+        },
+        {
+            "name": "Planning and Conducting",
+            "description": "Making a plan and doing things to carry out the plan",
+            "indicators": [
+                {
+                    "name": "Create a plan."
+                },
+                {
+                    "name": "Take actions to execute that plan."
+                }
+            ]
+        },
+        {
+            "name": "Processing and Analyzing Data and Information",
+            "description": "Sorting through information and figuring out what it means",
+            "indicators": [
+                {
+                    "name": "Analyze information to understand its meaning."
+                }
+            ]
+        },
+        {
+            "name": "Evaluating",
+            "description": "Checking to see if something is good or not based on specific criteria",
+            "indicators": [
+                {
+                    "name": "Evaluate something to determine its quality using specific criteria."
+                }
+            ]
+        },
+        {
+            "name": "Applying and Innovating",
+            "description": "Using what you know to solve problems in new and creative ways",
+            "indicators": [
+                {
+                    "name": "Apply my knowledge to solve problems in innovative and creative ways."
+                }
+            ]
+        },
+        {
+            "name": "Significance",
+            "description": "Figuring out what's important and why it matters",
+            "indicators": [
+                {
+                    "name": "Determine what is significant and understand its importance."
+                }
+            ]
+        },
+        {
+            "name": "Evidence",
+            "description": "Collecting and using facts to help support an idea or argument",
+            "indicators": [
+                {
+                    "name": "Gather and apply facts to boost an idea or argument."
+                }
+            ]
+        },
+        {
+            "name": "Continuity and Change",
+            "description": "Understanding how things stay the same or are different over time",
+            "indicators": [
+                {
+                    "name": "Understand how things remain constant or change over time."
+                }
+            ]
+        },
+        {
+            "name": "Cause and Consequence",
+            "description": "Figuring out why things happen and what might happen as a result",
+            "indicators": [
+                {
+                    "name": "Analyze why things occur and predict potential outcomes."
+                }
+            ]
+        },
+        {
+            "name": "Perspective",
+            "description": "Seeing things from different points of view to get a better understanding",
+            "indicators": [
+                {
+                    "name": "Consider various perspectives."
+                },
+                {
+                    "name": "Gain a deeper understanding through multiple viewpoints."
+                }
+            ]
+        },
+        {
+            "name": "Ethical Judgment",
+            "description": "Thinking about what's right and wrong and making decisions based on that",
+            "indicators": [
+                {
+                    "name": "Contemplate ethical choices."
+                },
+                {
+                    "name": "Make decisions based on what’s morally right."
+                }
+            ]
+        },
+        {
+            "name": "Personal Development",
+            "description": "Growing and learning to be a better person by being positive, managing emotions, and achieving goals.",
+            "indicators": [
+                {
+                    "name": "Maintain a positive attitude."
+                },
+                {
+                    "name": "Manage emotions effectively."
+                },
+                {
+                    "name": "Reach personal goals."
+                }
+            ]
+        },
+        {
+            "name": "Questioning and Predicting",
+            "description": "Asking questions and making guesses about what might happen next based on what you know",
+            "indicators": [
+                {
+                    "name": "Inquire and ask questions."
+                },
+                {
+                    "name": "Make predictions based on knowledge."
+                }
+            ]
+        },
+        {
+            "name": "Planning and Conducting",
+            "description": "Making a plan and doing things to carry out the plan",
+            "indicators": [
+                {
+                    "name": "Create a plan."
+                },
+                {
+                    "name": "Take actions to execute that plan."
+                }
+            ]
+        },
+        {
+            "name": "Processing and Analyzing Data and Information",
+            "description": "Sorting through information and figuring out what it means",
+            "indicators": [
+                {
+                    "name": "Analyze information to understand its meaning."
+                }
+            ]
+        },
+        {
+            "name": "Evaluating",
+            "description": "Checking to see if something is good or not based on specific criteria",
+            "indicators": [
+                {
+                    "name": "Evaluate something to determine its quality using specific criteria."
+                }
+            ]
+        },
+        {
+            "name": "Applying and Innovating",
+            "description": "Using what you know to solve problems in new and creative ways",
+            "indicators": [
+                {
+                    "name": "Apply knowledge to solve problems in innovative and creative ways."
+                }
+            ]
+        },
+        {
+            "name": "Significance",
+            "description": "Figuring out what's important and why it matters",
+            "indicators": [
+                {
+                    "name": "Determine what is significant."
+                },
+                {
+                    "name": "Understand the importance of significant things."
+                }
+            ]
+        },
+        {
+            "name": "Evidence",
+            "description": "Collecting and using facts to help support an idea or argument",
+            "indicators": [
+                {
+                    "name": "Gather and apply facts to support an idea or argument."
+                }
+            ]
+        },
+        {
+            "name": "Continuity and Change",
+            "description": "Understanding how things stay the same or are different over time",
+            "indicators": [
+                {
+                    "name": "Understand how things remain constant or change over time."
+                }
+            ]
+        },
+        {
+            "name": "Cause and Consequence",
+            "description": "Figuring out why things happen and what might happen as a result",
+            "indicators": [
+                {
+                    "name": "Analyze why things occur."
+                },
+                {
+                    "name": "Predict potential outcomes."
+                }
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "name": "Applied Design, Skills, and Technology",
+            "description": "Exploring the practical application of design principles, skills, and technology to create innovative solutions.",
+            "icon": "iconoir:gear"
+          },
+          {
+            "name": "Career Education",
+            "description": "Preparing students for the workplace and helping them understand how various careers contribute to society.",
+            "icon": "iconoir:briefcase"
+          },
+          {
+            "name": "Arts Education",
+            "description": "Encouraging creative expression and understanding through visual arts, music, dance, and drama.",
+            "icon": "iconoir:palette"
+          },
+          {
+            "name": "English Language Arts",
+            "description": "Developing literacy, communication, and critical thinking skills through the study of language and literature.",
+            "icon": "iconoir:books"
+          },
+          {
+            "name": "Mathematics",
+            "description": "Understanding patterns, relations, and functions to solve problems using mathematical reasoning.",
+            "icon": "iconoir:abacus"
+          },
+          {
+            "name": "Physical and Health Education",
+            "description": "Promoting physical fitness, health, and well-being through active living and healthy lifestyle choices.",
+            "icon": "iconoir:heart"
+          },
+          {
+            "name": "Science",
+            "description": "Investigating natural phenomena through observation, experimentation, and analysis to understand the natural world.",
+            "icon": "iconoir:microscope"
+          },
+          {
+            "name": "Social Studies",
+            "description": "Examining human societies, cultures, and historical events to understand the complexities of the world.",
+            "icon": "iconoir:globe"
+          }
+      ]
+}
