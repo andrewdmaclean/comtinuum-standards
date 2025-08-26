@@ -3,18 +3,27 @@
     {
       "id": "psii",
       "name": "PSII",
-      "description": "Comtinuum Standards used by the Pacific School of Innovation and Inquiry"
+      "description": "Continuum Standards used by the Pacific School of Innovation and Inquiry"
     },
     {
       "id": "bc-sci-9",
       "name": "BC Science 9",
-      "description": "Standards for the Bristh Columbia Science 9 Curriculum from 2023"
+      "description": "Standards for the British Columbia Science 9 Curriculum from 2023"
     },
     {
       "id": "sd-23-pilot",
       "name": "SD23 Pilot",
       "description": "Standards used as part of the SD 23 Pilot Project for the 2023-2024 school year"
+    },
+    {
+      "id": "bc-soc-10",
+      "name": "BC Social Studies 10",
+      "description": "Standards for the British Columbia Social Studies 10 Curriculum: Canada and the World, 1914 to the Present"
+    },
+    {
+      "id": "bc-ela-10-comp",
+      "name": "BC English Language Arts 10 - Composition",
+      "description": "Standards for the British Columbia English Language Arts 10 Curriculum: Composition"
     }
-
   ]
 }

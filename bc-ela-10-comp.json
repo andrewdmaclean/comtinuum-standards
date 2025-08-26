@@ -1,0 +1,57 @@
+{
+  "competencies": [
+    {
+      "name": "Comprehend and Connect",
+      "description": "Individually and collaboratively, students use strategies to read, listen, and view in order to build understanding and make connections.",
+      "indicators": [
+        { "name": "Recognize and appreciate the role of story, narrative, and oral tradition in expressing First Peoples perspectives, values, beliefs, and points of view." },
+        { "name": "Recognize and appreciate the diversity within and across First Peoples societies as represented in texts." },
+        { "name": "Access information for diverse purposes and from a variety of sources to inform writing." },
+        { "name": "Explore the relevance, accuracy, and reliability of texts." },
+        { "name": "Apply appropriate strategies to comprehend written, oral, visual, and multimodal texts." },
+        { "name": "Recognize and appreciate how forms, formats, structures, and features of texts enhance and shape meaning and impact." },
+        { "name": "Think critically, creatively, and reflectively to explore ideas within, between, and beyond texts." },
+        { "name": "Explore how language constructs personal and cultural identities." },
+        { "name": "Construct meaningful personal connections between self, text, and world." },
+        { "name": "Identify bias, contradictions, and distortions in texts." }
+      ]
+    },
+    {
+      "name": "Create and Communicate",
+      "description": "Individually and collaboratively, students use writing, speaking, and representing to exchange ideas and produce texts.",
+      "indicators": [
+        { "name": "Respectfully exchange ideas and viewpoints from diverse perspectives to build shared understanding and extend thinking." },
+        { "name": "Respond to text in personal, creative, and critical ways." },
+        { "name": "Assess and refine texts to improve clarity and impact." },
+        { "name": "Demonstrate speaking and listening skills in a variety of formal and informal contexts for a range of purposes." },
+        { "name": "Use writing and design processes to plan, develop, and create engaging and meaningful texts for a variety of purposes and audiences." },
+        { "name": "Express and support an opinion with evidence." },
+        { "name": "Use the conventions of Canadian spelling, grammar, and punctuation proficiently and appropriately to the context." },
+        { "name": "Use acknowledgements and citations to recognize intellectual property rights." },
+        { "name": "Transform ideas and information to create original texts." }
+      ]
+    }
+  ],
+  "contexts": [
+    {
+      "name": "Text Forms and Genres",
+      "description": "Narrative, expository, descriptive, persuasive, and opinion pieces, including structures found in First Peoples texts.",
+      "icon": "iconoir:book"
+    },
+    {
+      "name": "Text Features and Structures",
+      "description": "Literary elements, stylistic features, protocols related to First Peoples oral texts, and organization techniques.",
+      "icon": "iconoir:align-left"
+    },
+    {
+      "name": "Strategies and Processes",
+      "description": "Reading, oral language, metacognitive, and writing strategies, including planning, drafting, editing, and revising processes.",
+      "icon": "iconoir:checklist"
+    },
+    {
+      "name": "Language Features and Conventions",
+      "description": "Language features, elements of style, exploration of voice, usage and conventions, and citation techniques.",
+      "icon": "iconoir:pen"
+    }
+  ]
+}

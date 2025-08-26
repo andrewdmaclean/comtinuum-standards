@@ -1,0 +1,132 @@
+{
+  "competencies": [
+    {
+      "name": "Inquiry and Communication",
+      "description": "Use Social Studies inquiry processes and skills to ask questions; gather, interpret, and analyze ideas; and communicate findings and decisions.",
+      "indicators": [
+        {
+          "name": "Ask relevant questions to frame historical and contemporary investigations."
+        },
+        {
+          "name": "Gather, interpret, and analyze information and ideas from diverse sources."
+        },
+        {
+          "name": "Communicate findings, interpretations, and decisions effectively."
+        }
+      ]
+    },
+    {
+      "name": "Significance",
+      "description": "Assess the significance of people, places, events, or developments at particular times and places, recognizing that significance varies by perspective.",
+      "indicators": [
+        {
+          "name": "Identify the importance of historical and contemporary people, places, or events."
+        },
+        {
+          "name": "Compare varying perspectives on their significance for different groups."
+        }
+      ]
+    },
+    {
+      "name": "Evidence",
+      "description": "Evaluate competing accounts of the past and present by investigating points of contention, reliability of sources, and adequacy of evidence, including data.",
+      "indicators": [
+        {
+          "name": "Assess the justification for competing historical or contemporary accounts."
+        },
+        {
+          "name": "Evaluate the reliability and credibility of primary and secondary sources."
+        },
+        {
+          "name": "Determine whether available evidence adequately supports conclusions."
+        }
+      ]
+    },
+    {
+      "name": "Continuity and Change",
+      "description": "Compare and contrast continuities and changes for different groups at particular times and places.",
+      "indicators": [
+        {
+          "name": "Identify examples of continuity and change across time."
+        },
+        {
+          "name": "Compare the impacts of continuity and change on different groups in society."
+        }
+      ]
+    },
+    {
+      "name": "Cause and Consequence",
+      "description": "Assess how underlying conditions and the actions of individuals or groups influence events, decisions, or developments, and analyze multiple consequences.",
+      "indicators": [
+        {
+          "name": "Analyze how conditions influenced historical and contemporary events."
+        },
+        {
+          "name": "Assess the role of individuals and groups in shaping outcomes."
+        },
+        {
+          "name": "Evaluate the intended and unintended consequences of events or decisions."
+        }
+      ]
+    },
+    {
+      "name": "Perspective",
+      "description": "Explain and infer different perspectives on past or present people, places, issues, or events by considering norms, values, worldviews, and beliefs.",
+      "indicators": [
+        {
+          "name": "Analyze different perspectives shaped by worldview and cultural context."
+        },
+        {
+          "name": "Interpret how norms, values, and beliefs influence perspectives."
+        }
+      ]
+    },
+    {
+      "name": "Ethical Judgment",
+      "description": "Make reasoned ethical judgments about actions in the past and present, and assess appropriate ways to remember and respond.",
+      "indicators": [
+        {
+          "name": "Evaluate the ethics of historical and contemporary actions and policies."
+        },
+        {
+          "name": "Make reasoned judgments about appropriate responses to past injustices."
+        },
+        {
+          "name": "Assess how societies should remember and respond to injustices."
+        }
+      ]
+    }
+  ],
+  "contexts": [
+    {
+      "name": "Government and Ideologies",
+      "description": "Government, First Peoples governance, political institutions, and ideologies.",
+      "icon": "iconoir:building"
+    },
+    {
+      "name": "Policies and Autonomy",
+      "description": "Environmental, political, and economic policies, and the development of Canadian autonomy.",
+      "icon": "iconoir:scale"
+    },
+    {
+      "name": "Canadian Identities",
+      "description": "Canadian identities and their development in relation to diversity and multiculturalism.",
+      "icon": "iconoir:flag"
+    },
+    {
+      "name": "Discriminatory Policies and Injustices",
+      "description": "Residential schools and injustices against First Peoples; discriminatory policies in Canada and globally (e.g., head tax, Komagata Maru, racial segregation, Hogan’s Alley, Japanese internment).",
+      "icon": "iconoir:ban"
+    },
+    {
+      "name": "Genocide and Human Rights",
+      "description": "The Holocaust and the concept of genocide; advocacy for human rights including the Truth and Reconciliation Commission recommendations.",
+      "icon": "iconoir:shield-question"
+    },
+    {
+      "name": "Conflicts and Cooperation",
+      "description": "Domestic and international conflicts and cooperation in the 20th and 21st centuries.",
+      "icon": "iconoir:world"
+    }
+  ]
+}
